@@ -24,11 +24,11 @@ These codes run an ensemble of simulations on an array (ring/chain) of N FHN osc
 
 ## Contents of folder **unique_binary**
 
-These codes identify the unique binary strings in an array (ring/chain) of N=10 FHN oscillators, starting from the full set of data obtained using folder ```steady_state_ensemble'''.
+These codes identify the unique binary strings in an array (ring/chain) of N=10 FHN oscillators, starting from the full set of data obtained using folder ```steady-state_ensemble```.
 
 ## Contents of folder **check_stability**
 
-These codes checks the stability of each of the 1024 potential SPOD states in an array of N=10 oscillators. The results obtained here validate the findings in the folder ```unique_binary'''.
+These codes checks the stability of each of the 1024 potential SPOD states in an array of N=10 oscillators. The results obtained here validate the findings in the folder ```unique_binary```.
 
 ## Contents of folder **perturb_SPOD**
 
@@ -40,7 +40,7 @@ These codes create a matrix that details the transitions between SPOD states tha
 
 ## Contents of folder **compute_stability**
 
-These codes compute the probabilities of obtaining a given SPOD state, starting from random initial conditions (local stability measure), and that obtained upon perturbation (global stability measure). The data used to obtain the local and global stabilities are generated in folders ```unique_binary''' and ```perturb_SPOD'''', respectively.
+These codes compute the probabilities of obtaining a given SPOD state, starting from random initial conditions (local stability measure), and that obtained upon perturbation (global stability measure). The data used to obtain the local and global stabilities are generated in folders ```unique_binary``` and ```perturb_SPOD```, respectively.
 
 ## Contents of folder **data_files**
 
